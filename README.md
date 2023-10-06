@@ -1,3 +1,3 @@
-# Cyber-Bullying-Detection-machine-Learning
+# Cyber-Bullying-Detection-Machine-Learning
 
 This project aims to develop a cyber bullying detection system and compare the performance of three different machine learning algorithms: Random Forest, Linear Support Vector Classifier (LinearSVC), and Naive Bayes. The system will analyze text data from various online platforms and social media to identify instances of cyberbullying. The project will evaluate the algorithms based on accuracy, precision, recall, F1-score, and computational efficiency to determine which algorithm is most effective in detecting cyberbullying behavior in online text data. The results will contribute to the development of more robust and efficient cyber bullying detection systems.
